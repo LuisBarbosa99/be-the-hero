@@ -17,6 +17,6 @@ Esse projeto foi criado através das aulas da __Semana Omnistack 11__, fornecida
 * Entrar em contato com a ONG (Somente no front-end)
 
 ##Links Úteis<h2>
-> ADICIONAR LINKS
-* Tutorial
-* knexJS
+
+* [Tutorial](backend/tutorial.md)
+* [Documentação do knexJS](http://knexjs.org)
