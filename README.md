@@ -4,12 +4,23 @@ Be the Hero
 
 Esse projeto foi criado através das aulas da __Semana Omnistack 11__, fornecida gratuitamente pela Rocketseat.
 
+
+Tecnologias Utilizadas
+----------------------
+
+* NodeJS + Express (_back-end_)
+* SQLite (Banco de Dados)
+* React (_front-end_)
+* ReactNative (_front-end mobile_ )
+* Visual Studio Code (ambiente de desenvolvimento - IDE)
+
 Entidades
 ---------
 
 
-*ONG
-*Caso(Incident)
+* ONG
+
+* Caso(Incident)
 
 Funcionalidades
 ---------------

@@ -2,5 +2,5 @@ Tutorial
 ========
 
 
-*[Banco de Dados](database.md)
+* [Banco de Dados](database.md)
 
