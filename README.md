@@ -19,7 +19,6 @@ Entidades
 
 
 * ONG
-
 * Caso(Incident)
 
 Funcionalidades
