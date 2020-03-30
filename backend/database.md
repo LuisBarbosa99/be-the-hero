@@ -1,6 +1,10 @@
-#SQL no NodeJS<h1>
+SQL no NodeJS
+=============
 
-##INSTALAÇÃO E INICIALIZAÇÃO<h2>
+
+INSTALAÇÃO E INICIALIZAÇÃO
+--------------------------
+
 
 * instalar _query builder_ __knex__
 `$ npm install knex`
@@ -14,7 +18,10 @@
 
 Este comando instala no projeto o arquivo _knexfile.js_. Lembrar de alterar nesse arquivo o diretório para salvar dados do BD, dependendo da organização do projeto.
 
-##MIGRATIONS<h2>
+
+MIGRATIONS
+----------
+
 
 * criar migrations
 `$ npx knex migrate:make <migration_name>`

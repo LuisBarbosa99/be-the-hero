@@ -1,12 +1,20 @@
-#Be the Hero<h1>
+Be the Hero
+===========
+
 
 Esse projeto foi criado através das aulas da __Semana Omnistack 11__, fornecida gratuitamente pela Rocketseat.
 
-##Entidades<h2>
+Entidades
+---------
+
+
 *ONG
 *Caso(Incident)
 
-##Funcionalidades<h2>
+Funcionalidades
+---------------
+
+
 * Login de ONG
 * Logout de ONG
 * Cadastro de ONG
@@ -16,7 +24,8 @@ Esse projeto foi criado através das aulas da __Semana Omnistack 11__, fornecida
 * Listar todos os casos
 * Entrar em contato com a ONG (Somente no front-end)
 
-##Links Úteis<h2>
+Links Úteis
+-----------
 
 * [Tutorial](backend/tutorial.md)
 * [Documentação do knexJS](http://knexjs.org)
